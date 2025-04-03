@@ -1,0 +1,3 @@
+[submodule "external/falcor"]
+	path = external/falcor
+	url = https://github.com/NVIDIAGameWorks/Falcor.git
